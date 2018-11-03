@@ -1,0 +1,2 @@
+# TriviaCard
+jQuery Effects
